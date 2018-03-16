@@ -56,6 +56,8 @@
 #define GPIO_NUM                           (0x40)
 #define GPIO_BASE_MAP                      (0x01C20800)
 #define MEM_INFO                           (1024)
+#define GPIOL_BASE                         (0x0)
+#define GPIOL_BASE_MAP                     (0x0)  
 #define MAP_SIZE_L                         (4096 * 2)
 #endif
 
