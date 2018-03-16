@@ -37,7 +37,7 @@ The Open source project of WiringPi on OrangePi. maintain from www.orangepi.org
       sudo ./build OrangePi_A64 install
     ```
     On OrangePi PC/PC plus/One/Lite/PC plus
-    # 修正了一些我遇到的问题.可以直接编译使用了
+    修正了一些我遇到的问题.可以直接编译使用了
     ```
       cd WiringPi
       sudo ./build OrangePi_H3
